@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndyJLi0
-- 👀 I’m interested in all this computer science
+- 👀 I’m interested in all this computer science (currently doing the odin project on the side)
 - 🌱 I’m extremely new to all this, so all i really know is introductory python and html, currently learning js, css and racket
 - 📫 you can reach me at my email: andyjiaanli@gmail.com
 
