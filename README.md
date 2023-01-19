@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndyJLi0
-- 👀 I’m currently working through TOP (The Odin Project)
+- 👀 I am a first year UBC student in the faculty of science hopping to major in CS and physics.
 - 📫 you can reach me at my email: andyjiaanli@gmail.com
 
 <!---
