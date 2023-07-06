@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndyJLi0
-- 👀 I am a first year UBC student in the faculty of science hopping to major in CS and physics.
+- 👀 I am a second year UBC student in CS & Math
 - 📫 you can reach me at my email: andyjiaanli@gmail.com
 
 <!---
