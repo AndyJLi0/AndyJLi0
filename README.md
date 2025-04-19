@@ -1,4 +1,5 @@
-- Current 3rd year math + cs student at The University of British Columbia. Working at Incognito Software Systems.
+- Current 4rd year math + cs student at The University of British Columbia.
+- Interned at Incognito Software Systems. Now at Amazon.
 - Interested in graphics, firmware, and systems.
 - reach me at andyjli107_at_gmail_dot_com.
 <!---
