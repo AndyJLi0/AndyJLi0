@@ -1,6 +1,4 @@
 - Current 4rd year math + cs student at The University of British Columbia.
-- Interned at Incognito Software Systems. Now at Amazon.
-- Interested in graphics, firmware, and systems.
 - reach me at andyjli107_at_gmail_dot_com.
 <!---
 AndyJLi0/AndyJLi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
